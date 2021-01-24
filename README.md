@@ -2,13 +2,19 @@
 
 ## Lesson Task 1 Questions
 
+Make sure you have TypeScript installed:
+
+```bash
+npm install -g typescript
+```
+
 Configure this project to use TypeScript with a `tsconfig.json` file.
 
 Answer the questions below in a `ts/script.ts` file. The compiled JavaScript file should be outputted in a `js` folder.
 
 ### Question 1
 
-Create variables typed with the following types: any, boolean, string number.
+Create variables typed with the following types: any, boolean, string, number.
 
 ### Question 2
 
