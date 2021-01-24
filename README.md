@@ -1,6 +1,6 @@
 # Workflow 2 - Module 1
 
-## Lesson Task 1 Questions
+## Lesson Task 1 Answers
 
 Make sure you have TypeScript installed:
 
