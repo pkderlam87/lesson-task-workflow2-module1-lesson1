@@ -11,3 +11,8 @@ let myBooleans;
 let twoTypes;
 // Question 4
 let tuple;
+//Question 5
+function doSomething(arg1, arg2) {
+    console.log(typeof arg1);
+    console.log(typeof arg2);
+}

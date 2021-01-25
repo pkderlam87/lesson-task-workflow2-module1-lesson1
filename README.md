@@ -27,3 +27,7 @@ Create an array that can hold either string or number values.
 ### Question 4
 
 Create an a tuple with the following types: string, string, number.
+
+### Question 5
+
+Create a function with two parameters. The first accepts either a string or boolean value, the second accepts either a number or string value.

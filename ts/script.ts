@@ -14,3 +14,9 @@ let twoTypes: (string | number)[];
 
 // Question 4
 let tuple: [string, string, number];
+
+//Question 5
+function doSomething(arg1: string | boolean, arg2: number | string) {
+	console.log(typeof arg1);
+	console.log(typeof arg2);
+}
